@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>为你而来 on 三场五幕软件站</title>
+    <link>https://czhweb.gitee.io/software/</link>
+    <description>Recent content in 为你而来 on 三场五幕软件站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language><atom:link href="https://czhweb.gitee.io/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>其他工具</title>
+      <link>https://czhweb.gitee.io/software/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://czhweb.gitee.io/software/tools/</guid>
+      <description>钉钉直播回放 教程点此，需要用到：Fiddle、m3u8合并器。简要说明：Fiddle抓取m3u8地址（包含ts文件，ctrl+F搜索.m3u8），拷贝进m3u8合并器，设置好后合成即可。</description>
+    </item>
+    
+    <item>
+      <title>办公软件</title>
+      <link>https://czhweb.gitee.io/software/office/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://czhweb.gitee.io/software/office/</guid>
+      <description>Office套装 Microsoft Office   镜像ISO：MSDN itellyou | Windows ISO Downloader
+  校内镜像（需VPN）：Office 2019 x64 中文版 | Office 2019 64bit English | Mac Office 2019
+  激活：见操作系统
+  安装部署工具（自带激活）：
+  俄罗斯Office 2013-2019 C2R Install（不能正常下载Office的，请将DNS改为 4.2.2.2）
+v6.3（推荐） | v7.07 b12（最新）
+  Office Tool Plus，一键部署Office，下载包含框架版本，运行Runme.bat
+官网 | 蓝奏云
+    WPS   机关政府版 （无广告，可能失效）
+天翼云（访问码：9typ）
+  教育版
+西北大学正版软件网站 | 天翼云（访问码：9typ）
+  PDF工具   福昕PDF阅读器</description>
+    </item>
+    
+    <item>
+      <title>图像视频</title>
+      <link>https://czhweb.gitee.io/software/media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://czhweb.gitee.io/software/media/</guid>
+      <description>Adobe系列   Photoshop CC 2019 v20.0.10.28848 绿色版 [下载地址]
+提取码: rqnw
+  Adobe产品下载器 CCMaker [下载地址]
+使用 CCMaker 下载安装，无需依赖Adobe Creative Cloud创意云程序，无需Adobe ID账户，可选：各产品单独语言，产品安装位置、Camera Raw滤镜增效工具、颜色配置文件、Adobe 2020/2019不支持安装免激活，Adobe CC 2018及更早版安装可选免激活，安装完后无附加程序驻留进程。
+  </description>
+    </item>
+    
+    <item>
+      <title>学术科研</title>
+      <link>https://czhweb.gitee.io/software/academy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://czhweb.gitee.io/software/academy/</guid>
+      <description>文献管理   Endnote20（需使用校内或VPN下载）
+  Windows系统用户请下载Windows版安装程序(MD5:68329768bab76e834fe10a6849a2e3bb)。解压缩 EN20Inst.msi、License.dat两个文件到同一个文件夹中（不可直接放在桌面上），之后双击ENX20nst.msi文件进行安装，中途不需要输入序列号。
+  Mac系统用户请下载macOS版安装程序(MD5:e2485ea2280518d57071bd0288356923)。挂载后运行Install EndNote 20进行安装。
+    Zotero
+[官网下载地址] | [蓝奏云 v5.0.96.3]
+Zotero配置说明
+  公式工具   Mathtype7.4破解版 [下载地址]
+  Mathpix Snip [官网下载] | [蓝奏云]
+Latex公式识别工具，准确率高，需要邮箱注册，每月50条，可用tempmail
+  Axmath [蓝奏云]
+国产软件，跨机使用有风险
+  计量软件   Stata [下载地址] （访问码：g0xy）
+含Stata13、Stata15、Stata16三个版本，破解方法参考网络。
+  Stata优化：[连玉君profile]
+  亦可在 Stata 命令窗口依次输入：cnssc install lxhget, lxhget profile.do，以便把该文件 copy 到你的当前工作路径下。进入输入 cd 即可显示当前工作路径。
+  如果在你的 Stata 安装目录下没有 profile.</description>
+    </item>
+    
+    <item>
+      <title>操作系统</title>
+      <link>https://czhweb.gitee.io/software/system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://czhweb.gitee.io/software/system/</guid>
+      <description>PE启动盘   硬盘安装器CGI 3.2
+一般在PE中自带，亦可在操作系统中启动
+  微PE工具箱 ★★★
+看到捐赠页面点击我已捐赠，可看到下载地址，推荐下载V2.0版本太平洋或者PC6下载，新机型可用V2.1版本
+  Win10镜像安装
+碰到过一次主板太新而无法进入PE的，只能使用镜像安装，需要使用此下载工具作为安装介质。
+  操作系统   Win7
+ 吻妻官网 ★★★ MSDN itellyou ★★☆ Windows ISO Downloader ★★☆  Win10
+ iwin10 ★★★ MSDN itellyou ★★☆ Windows ISO Downloader ★★☆ 微软官方易升（仅适用升级，可能存在风险） ★☆☆    校内链接：需账号密码登录
+ Win10 Pro (20H2) 64位 中文版（MD5校验码：0d18c5756b8b07259ec034d2fa408772） Win10 Pro (20H2) 64bit English（MD5校验码：436a66d36e590b4714b4d75878c8c22c） Win10 LTSC (2019) 64位 中文版（MD5校验码：0d98f58465929ee524ce3aec0832a58b）    SHA1校验工具（下载完成后务必进行SHA1校验），推荐iHasher
+  激活工具   正版激活（需要vpn接入校内）</description>
+    </item>
+    
+    <item>
+      <title>装机必备</title>
+      <link>https://czhweb.gitee.io/software/necessary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://czhweb.gitee.io/software/necessary/</guid>
+      <description>压缩解压   WinRAR [下载地址]
+破解版RAR解压工具
+  Bandizip [下载地址]
+安装后切勿升级，在选项中把自动升级取消勾选，7.x版本有广告
+  下载工具   IDM [下载地址]
+下载工具 建议版本 6.33.2(需改语言) 备用版本6.32.5
+  NDM [下载地址]
+IDM的替代下载工具，可用于微云下载提速，参见使用说明。
+  Windows优化   Dism++ [下载地址]
+  Geek [下载地址]
+  图吧工具箱 [下载地址]
+  鲁大师绿色单文件版 [下载地址]
+  安全管家   火绒安全软件 [下载地址]
+  腾讯电脑管家 [下载地址]
+安装后可在软件管家中下载软件，避免捆绑无用插件：
+ 常用软件：QQ、微信、搜狗拼音输入法、百度网盘、 Edge、腾讯会议、钉钉、向日葵、Foxmail、Potplayer等
+取消IDM、WinRAR、Listary等升级提示
+   </description>
+    </item>
+    
+  </channel>
+</rss>
