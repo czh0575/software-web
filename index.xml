@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>为你而来 on 三场五幕软件站</title>
-    <link>https://czhweb.gitee.io/software/</link>
+    <link>https://czh0575.github.io/software-web/</link>
     <description>Recent content in 为你而来 on 三场五幕软件站</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="https://czhweb.gitee.io/software/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language><atom:link href="https://czh0575.github.io/software-web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>其他工具</title>
-      <link>https://czhweb.gitee.io/software/tools/</link>
+      <link>https://czh0575.github.io/software-web/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://czhweb.gitee.io/software/tools/</guid>
+      <guid>https://czh0575.github.io/software-web/tools/</guid>
       <description>钉钉直播回放 教程点此，需要用到：Fiddle、m3u8合并器。简要说明：Fiddle抓取m3u8地址（包含ts文件，ctrl+F搜索.m3u8），拷贝进m3u8合并器，设置好后合成即可。</description>
     </item>
     
     <item>
       <title>办公软件</title>
-      <link>https://czhweb.gitee.io/software/office/</link>
+      <link>https://czh0575.github.io/software-web/office/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://czhweb.gitee.io/software/office/</guid>
+      <guid>https://czh0575.github.io/software-web/office/</guid>
       <description>Office套装 Microsoft Office   镜像ISO：MSDN itellyou | Windows ISO Downloader
   校内镜像（需VPN）：Office 2019 x64 中文版 | Office 2019 64bit English | Mac Office 2019
   激活：见操作系统
@@ -38,10 +38,10 @@ v6.3（推荐） | v7.07 b12（最新）
     
     <item>
       <title>图像视频</title>
-      <link>https://czhweb.gitee.io/software/media/</link>
+      <link>https://czh0575.github.io/software-web/media/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://czhweb.gitee.io/software/media/</guid>
+      <guid>https://czh0575.github.io/software-web/media/</guid>
       <description>Adobe系列   Photoshop CC 2019 v20.0.10.28848 绿色版 [下载地址]
 提取码: rqnw
   Adobe产品下载器 CCMaker [下载地址]
@@ -51,10 +51,10 @@ v6.3（推荐） | v7.07 b12（最新）
     
     <item>
       <title>学术科研</title>
-      <link>https://czhweb.gitee.io/software/academy/</link>
+      <link>https://czh0575.github.io/software-web/academy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://czhweb.gitee.io/software/academy/</guid>
+      <guid>https://czh0575.github.io/software-web/academy/</guid>
       <description>文献管理   Endnote20（需使用校内或VPN下载）
   Windows系统用户请下载Windows版安装程序(MD5:68329768bab76e834fe10a6849a2e3bb)。解压缩 EN20Inst.msi、License.dat两个文件到同一个文件夹中（不可直接放在桌面上），之后双击ENX20nst.msi文件进行安装，中途不需要输入序列号。
   Mac系统用户请下载macOS版安装程序(MD5:e2485ea2280518d57071bd0288356923)。挂载后运行Install EndNote 20进行安装。
@@ -75,10 +75,10 @@ Latex公式识别工具，准确率高，需要邮箱注册，每月50条，可�
     
     <item>
       <title>操作系统</title>
-      <link>https://czhweb.gitee.io/software/system/</link>
+      <link>https://czh0575.github.io/software-web/system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://czhweb.gitee.io/software/system/</guid>
+      <guid>https://czh0575.github.io/software-web/system/</guid>
       <description>PE启动盘   硬盘安装器CGI 3.2
 一般在PE中自带，亦可在操作系统中启动
   微PE工具箱 ★★★
@@ -94,10 +94,10 @@ Latex公式识别工具，准确率高，需要邮箱注册，每月50条，可�
     
     <item>
       <title>装机必备</title>
-      <link>https://czhweb.gitee.io/software/necessary/</link>
+      <link>https://czh0575.github.io/software-web/necessary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://czhweb.gitee.io/software/necessary/</guid>
+      <guid>https://czh0575.github.io/software-web/necessary/</guid>
       <description>压缩解压   WinRAR [下载地址]
 破解版RAR解压工具
   Bandizip [下载地址]
