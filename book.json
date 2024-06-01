@@ -1,0 +1,67 @@
+{
+    "title": "三场五幕软件站",
+      "author": "czh",
+      "language": "zh-hans",
+      "links": {
+          "sidebar": {
+            "三场五幕导航站": "https://nav.czhweb.cn"
+          }
+        },
+    "plugins": [
+        "splitter",
+        "-lunr", 
+        "-search", 
+        "-sharing",
+        "search-plus",
+        "insert-logo",
+        "anchor-navigation-ex",
+        "expandable-chapters-small",
+        "copy-code-button",
+        "auto-scroll-table",
+        "lightbox",
+        "tbfed-pagefooter",
+        "hide-element",
+        "-highlight",
+        "prism", 
+        "github",
+        "katex", 
+        "prism-themes",
+        "sectionx",
+        "valine",
+        "flexible-alerts"
+        ],
+      "pluginsConfig": {
+          "anchor-navigation-ex": {
+              "showLevel": false
+          },
+          "tbfed-pagefooter": {
+            "copyright": "Copyright &copy czh 2021-2022",
+            "modify_label": "该文章最后修改时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss",
+            "powered": false
+        },
+        "hide-element": {
+            "elements": [".gitbook-link"]
+        },
+        "prism": {
+          "css": [
+            "prism-themes/themes/prism-dracula.css"
+          ]
+        },
+        "sectionx": {
+          "tag": "b"
+        },
+        "insert-logo": {
+            "url": "/assets/Logo.png",
+            "style": "background: none;max-height:90px"
+        },
+        "github": {
+            "url": "https://github.com/czh0575"
+        },
+        "valine": {
+          "appId": "5XSvhTz5Uvj2ylIdVuQC0l0P-gzGzoHsz",
+          "appKey": "cVEtUF9VtEsj3nJvwoPr24TR",
+          "placeholder": "请在此输入您的问题，提交后请刷新！"
+        }
+      }
+}
